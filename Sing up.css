@@ -1,0 +1,36 @@
+body form ul li{
+    list-style: none;
+}
+.sing-up{
+    margin-left: 500px;
+    background-color: skyblue;
+    width: 420px;
+    border-radius: 10px;
+    padding: 3px;
+}
+.sing-up h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+input[type=text], input[type=password] {
+    width: 300px;
+    padding: 15px;
+    margin: 5px 0 22px 0px;
+    border: none;
+    background: #f1f1f1;
+}
+.btn{
+    text-align: center;
+}
+.btn button {
+    width: 100px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+.btn :hover{
+    background-image: linear-gradient(to left, orange, purple);
+    border: none;
+}
+.remember_me{
+    margin-bottom: 15px;
+}
