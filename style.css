@@ -88,7 +88,7 @@ nav {
     border-radius: 5px;
 }
 .barre button{
-    background-image: linear-gradient(to right, orange, purple);
+    background-image: linear-gradient(to right, #ffa500, #800080);
 }
 .img-hero{
     position: absolute;
